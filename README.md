@@ -5,7 +5,7 @@ This repository contains all of the source code used in the course called HTML, 
 # Assignments :
 
 * Module-1 - Quiz 
-* Module-2 - Coding
+* [Module-2 - Coding] (https://github.com/amanKIIT/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/tree/main/Assignments/Module-2)
 * Module-3 - Coding
 * Module-4 - Coding
 * Module-5 - Coding
@@ -13,4 +13,4 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-* [Module-2](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
+* [Module-2](https://amankiit.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/Module-2/index.html)
